@@ -216,3 +216,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ClauseWise — large data files not committed
+data/raw/
+data/indexes/
+data/processed/
+data/evidence_corpus/
+data/benchmark/
+
+# Generated evaluation outputs
+evaluation/results/
+evaluation/figures/
+evaluation/tables/
+
+# Thesis generated documents
+thesis/*.docx
+thesis/*.pdf
+
+# Node (frontend)
+frontend/node_modules/
+frontend/.next/
+frontend/out/
