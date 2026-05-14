@@ -2,7 +2,7 @@
 
 Retrieval-grounded legal information access system that transforms dense contract clauses into plain-English explanations, flags consumer risks, and verifies every explanation against retrieved legal evidence.
 
-Built as an MSc thesis project (Information Processing & Management) supporting 7 research questions evaluated across 50 benchmark clauses.
+Built as a thesis project supporting 7 research questions evaluated across 50 benchmark clauses.
 
 ---
 
